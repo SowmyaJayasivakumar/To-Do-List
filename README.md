@@ -3,7 +3,7 @@
 A simple Todo List application built with Python and Tkinter, allowing users to manage their tasks efficiently.
 
 # Screenshots
-![ScreenShot](https://github.com/SowmyaJayasivakumar/To-Do-List/blob/main/screenshot.png)
+![ScreenShot](https://github.com/user-attachments/assets/662c1938-fb0d-4afb-aed3-509a7e57b7a4)
 
 # Features
 Add Tasks: Easily add new tasks to your todo list.  
