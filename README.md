@@ -3,10 +3,10 @@
 A simple Todo List application built with Python and Tkinter, allowing users to manage their tasks efficiently.
 
 # Features
-Add Tasks: Easily add new tasks to your todo list.
-Remove Tasks: Remove tasks that you have completed.
-View Tasks: Display all your current tasks.
-Save/Load Tasks: Save your tasks to a file and load them on startup.
+Add Tasks: Easily add new tasks to your todo list.  
+Remove Tasks: Remove tasks that you have completed.  
+View Tasks: Display all your current tasks.  
+Save/Load Tasks: Save your tasks to a file and load them on startup.  
 
 # Requirements
 Python 3.x
